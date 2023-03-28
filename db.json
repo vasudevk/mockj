@@ -29,5 +29,24 @@
       "NY Red Bulls"
     ]
   },
-  "zip": [75036,75234,75095,75075]
+  "seattle": {
+    "state": "WA",
+    "pop": 733919,
+    "weather": [
+      21.5,
+      94.5
+    ],
+    "metro": false,
+    "sports": [
+      "Seahawks",
+      "Mariners",
+      "Seattle Sounders FC"
+    ]
+  },
+  "zip": [
+    75036,
+    75234,
+    98005,
+    110070
+  ]
 }
