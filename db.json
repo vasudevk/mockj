@@ -1,6 +1,32 @@
 {
-  "weather": {
-    "dallas": "75F",
-    "phoenix": "87F"
+  "dallas": {
+    "state": "TX",
+    "pop": 1300000,
+    "weather": [
+      37.3,
+      105.8
+    ],
+    "metro": true,
+    "sports": [
+      "Cowboys",
+      "Mavericks",
+      "Rangers",
+      "FC Dallas"
+    ]
+  },
+  "new york": {
+    "state": "NY",
+    "pop": 8800000,
+    "weather": [
+      15.5,
+      77.5
+    ],
+    "metro": true,
+    "sports": [
+      "Giants",
+      "Yankees",
+      "Brooklyn Nets",
+      "NY Red Bulls"
+    ]
   }
 }
